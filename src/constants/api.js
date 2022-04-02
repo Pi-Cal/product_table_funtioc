@@ -1,0 +1,1 @@
+export const TEKO_API = 'https://hiring-test.stag.tekoapis.net/api'

@@ -1,0 +1,2 @@
+export const ERROR_PRODUCTS = 'ERROR_PRODUCTS'
+export const INTRODUCTION = 'INTRODUCTION'
